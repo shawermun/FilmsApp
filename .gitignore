@@ -1,8 +1,10 @@
 node_modules/
 .expo/
-dist/
-web-build/
-*.log
-.DS_Store
-*.env
+.idea/
 .env
+.env.*
+!.env.example
+dist/
+*.log
+*.db
+*.sqlite
