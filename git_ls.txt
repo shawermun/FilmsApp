@@ -1,0 +1,22 @@
+ai/CHANGELOG.md
+src/api/tmdb.ts
+src/screens/SearchScreen.tsx
+src/utils/searchFilters.ts
+warning: in the working copy of 'app.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eas.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eas.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eas.json', LF will be replaced by CRLF the next time Git touches it
+ ANDROID_KOTLIN_DEV_ASSISTANT_FIXES.md |  22 ------
+ CLAUDE.md                             |   1 -
+ README_AUDIT.md                       | 127 ----------------------------------
+ README_BLOCK2.md                      |  51 --------------
+ README_patch.md                       |  14 ----
+ app.json                              |   3 +-
+ eas.json                              |  24 +++++++
+ filmsapp_audit_and_block1.md          | 127 ----------------------------------
+ filmsapp_block3_summary.md            |  60 ----------------
+ filmsapp_block4_summary.md            |  91 ------------------------
+ filmsapp_block6_summary.md            |  59 ----------------
+ filmsapp_block7_summary.md            |  64 -----------------
+ filmsapp_v4_library_fix_summary.md    |  29 --------
+ 13 files changed, 26 insertions(+), 646 deletions(-)

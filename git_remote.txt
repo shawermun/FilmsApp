@@ -1,0 +1,18 @@
+* master
+warning: in the working copy of 'eas.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eas.json', LF will be replaced by CRLF the next time Git touches it
+ D ANDROID_KOTLIN_DEV_ASSISTANT_FIXES.md
+ D CLAUDE.md
+ D README_AUDIT.md
+ D README_BLOCK2.md
+ D README_patch.md
+ M app.json
+ A eas.json
+ D filmsapp_audit_and_block1.md
+ D filmsapp_block3_summary.md
+ D filmsapp_block4_summary.md
+ D filmsapp_block6_summary.md
+ D filmsapp_block7_summary.md
+ D filmsapp_v4_library_fix_summary.md
+?? git_remote.txt
+aca0a5d Initial commit
